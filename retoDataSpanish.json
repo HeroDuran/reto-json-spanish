@@ -89,8 +89,8 @@
                 "id":1,
                 "language":"Español",
                 "languageJsonUrl":,"https://heroduran.github.io/reto-json-spanish/retoDataSpanish.json",
-                "languageTrophyImageExtension":"languageEnglishUSAtrophy.png",
-                "languageFlagImageExtension":"languageEnglishUSAflag.png"
+                "languageTrophyImageExtension":"languageSpanishMexicotrophy.png",
+                "languageFlagImageExtension":"languageSpanishMexicoflag.png"
             }
         ],
         "credits":[
