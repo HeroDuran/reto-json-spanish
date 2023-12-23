@@ -1,7 +1,7 @@
 [
     {
         "id":0,
-        "language":"English",
+        "language":"Español",
         "languageText":"Language",
         "retoImagesUrl":"https://heroduran.github.io/reto-images/",
         "appNameImageExtension":"appName.png",
@@ -88,7 +88,7 @@
             {
                 "id":1,
                 "language":"Español",
-                "languageJsonUrl":,"",
+                "languageJsonUrl":,"https://heroduran.github.io/reto-json-spanish/retoDataSpanish.json",
                 "languageTrophyImageExtension":"languageEnglishUSAtrophy.png",
                 "languageFlagImageExtension":"languageEnglishUSAflag.png"
             }
