@@ -81,14 +81,14 @@
             {
                 "id":0,
                 "language":"English",
-                "languageJsonUrl":,"https://heroduran.github.io/reto-data-files/retoData.json",
+                "languageJsonUrl":"https://heroduran.github.io/reto-data-files/retoData.json",
                 "languageTrophyImageExtension":"languageEnglishUSAtrophy.png",
                 "languageFlagImageExtension":"languageEnglishUSAflag.png"
             },
             {
                 "id":1,
                 "language":"Español",
-                "languageJsonUrl":,"https://heroduran.github.io/reto-json-spanish/retoDataSpanish.json",
+                "languageJsonUrl":"https://heroduran.github.io/reto-json-spanish/retoDataSpanish.json",
                 "languageTrophyImageExtension":"languageSpanishMexicotrophy.png",
                 "languageFlagImageExtension":"languageSpanishMexicoflag.png"
             }
