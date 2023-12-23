@@ -3,6 +3,7 @@
         "id":0,
         "language":"Español",
         "languageText":"Idioma",
+        "languageFlagImageExtension":"languageSpanishMexicoflag.png",
         "retoImagesUrl":"https://heroduran.github.io/reto-images/",
         "appNameImageExtension":"appName.png",
         "editNameBuddyText":"Edit Name and Select Buddy",
@@ -82,15 +83,13 @@
                 "id":0,
                 "language":"English",
                 "languageJsonUrl":"https://heroduran.github.io/reto-data-files/retoData.json",
-                "languageTrophyImageExtension":"languageEnglishUSAtrophy.png",
-                "languageFlagImageExtension":"languageEnglishUSAflag.png"
+                "languageTrophyImageExtension":"languageEnglishUSAtrophy.png"
             },
             {
                 "id":1,
                 "language":"Español",
                 "languageJsonUrl":"https://heroduran.github.io/reto-json-spanish/retoDataSpanish.json",
-                "languageTrophyImageExtension":"languageSpanishMexicotrophy.png",
-                "languageFlagImageExtension":"languageSpanishMexicoflag.png"
+                "languageTrophyImageExtension":"languageSpanishMexicotrophy.png"
             }
         ],
         "credits":[
